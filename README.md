@@ -5,3 +5,4 @@ I would like to improve my knowledge in both R and Python
 That would be Ideal
 This is still part of the tutorial
 So it goes...
+This is a line from Rstudio wup wup
