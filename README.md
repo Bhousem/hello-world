@@ -6,3 +6,5 @@ That would be Ideal
 This is still part of the tutorial
 So it goes...
 This is a line from Rstudio wup wup
+
+This is a second line from RStudio, I AM VERY GOOD AT CODING
