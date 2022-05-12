@@ -9,4 +9,6 @@ This is a line from Rstudio wup wup
 
 This is a second line from RStudio, I AM VERY GOOD AT CODING
 
-This is a thrid and for today final line from RStudio, RSussudio
+This is a third and for today final line from RStudio, RSussudio
+
+And this is the real third line
